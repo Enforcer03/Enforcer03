@@ -1,5 +1,7 @@
 ## 💫 About Me:
-👋 Hello there! I'm Ved Umrajkar, I'm currently majoring in Mathematics and Computing at IIT Roorkee.<br><br>💼 I specialize in Computer Vision, Time Series Analysis, and Statistics and Financial Mathematics.<br><br>🔍 I'm passionate about problem-solving and deeply intrigued by the boundless potential of machine learning.<br><br>🚀 I'm always eager to collaborate with like-minded professionals to innovate and create impactful solutions.<br><br>🌱 Let's connect and explore the exciting world of data science together!
+👋 Hi, I'm **Ved Umrajkar**, a **Mathematics and Computing** major at **IIT Roorkee**.  
+I specialize in **Machine Learning, Computer Vision, and Applied Statistics**, with a passion for **data-driven problem-solving and innovation**.  
+Always open to collaboration and exploring new ideas! 🚀  
 
 
 ## 🌐 Socials:
